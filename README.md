@@ -1,6 +1,6 @@
 # Calendar-Calculator
 
-This is a special calculator where you can pinpoint the exact day of the week of any past calendar date you enter! The calculations are made based on how the internationally accepted Gregorian calendar functions.
+This special calculator allows you to pinpoint the exact day of the week of any past calendar date you enter, using calculations derived from our internationally recognized Gregorian calendar.
 
 # Requirements
 -> The date must be entered in the MM-DD-YYYY format
