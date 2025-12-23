@@ -1,4 +1,4 @@
-# Calendar-Calculator
+# Calendar Calculator
 
 This special calculator allows you to pinpoint the exact day of the week of any past calendar date you enter, using calculations derived from our internationally recognized Gregorian calendar.
 
